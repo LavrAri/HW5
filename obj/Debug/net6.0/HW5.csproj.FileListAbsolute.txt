@@ -1,0 +1,15 @@
+C:\Users\Арина\Desktop\Курсы\GB\Знакомство с языками программирования\Домашняя работа\HW5\HW5\bin\Debug\net6.0\HW5.exe
+C:\Users\Арина\Desktop\Курсы\GB\Знакомство с языками программирования\Домашняя работа\HW5\HW5\bin\Debug\net6.0\HW5.deps.json
+C:\Users\Арина\Desktop\Курсы\GB\Знакомство с языками программирования\Домашняя работа\HW5\HW5\bin\Debug\net6.0\HW5.runtimeconfig.json
+C:\Users\Арина\Desktop\Курсы\GB\Знакомство с языками программирования\Домашняя работа\HW5\HW5\bin\Debug\net6.0\HW5.dll
+C:\Users\Арина\Desktop\Курсы\GB\Знакомство с языками программирования\Домашняя работа\HW5\HW5\bin\Debug\net6.0\HW5.pdb
+C:\Users\Арина\Desktop\Курсы\GB\Знакомство с языками программирования\Домашняя работа\HW5\HW5\obj\Debug\net6.0\HW5.csproj.AssemblyReference.cache
+C:\Users\Арина\Desktop\Курсы\GB\Знакомство с языками программирования\Домашняя работа\HW5\HW5\obj\Debug\net6.0\HW5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Арина\Desktop\Курсы\GB\Знакомство с языками программирования\Домашняя работа\HW5\HW5\obj\Debug\net6.0\HW5.AssemblyInfoInputs.cache
+C:\Users\Арина\Desktop\Курсы\GB\Знакомство с языками программирования\Домашняя работа\HW5\HW5\obj\Debug\net6.0\HW5.AssemblyInfo.cs
+C:\Users\Арина\Desktop\Курсы\GB\Знакомство с языками программирования\Домашняя работа\HW5\HW5\obj\Debug\net6.0\HW5.csproj.CoreCompileInputs.cache
+C:\Users\Арина\Desktop\Курсы\GB\Знакомство с языками программирования\Домашняя работа\HW5\HW5\obj\Debug\net6.0\HW5.dll
+C:\Users\Арина\Desktop\Курсы\GB\Знакомство с языками программирования\Домашняя работа\HW5\HW5\obj\Debug\net6.0\refint\HW5.dll
+C:\Users\Арина\Desktop\Курсы\GB\Знакомство с языками программирования\Домашняя работа\HW5\HW5\obj\Debug\net6.0\HW5.pdb
+C:\Users\Арина\Desktop\Курсы\GB\Знакомство с языками программирования\Домашняя работа\HW5\HW5\obj\Debug\net6.0\HW5.genruntimeconfig.cache
+C:\Users\Арина\Desktop\Курсы\GB\Знакомство с языками программирования\Домашняя работа\HW5\HW5\obj\Debug\net6.0\ref\HW5.dll
